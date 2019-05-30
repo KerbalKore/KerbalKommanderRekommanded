@@ -38,8 +38,8 @@ A big thanks to:
 Veeltch (http://forum.kerbalspaceprogram.com/index.php?/profile/39636-veeltch/) who created some ships and station for the mod,
 Boltyx (http://forum.kerbalspaceprogram.com/index.php?/profile/159338-boltyx/) who build some ships, stations and helping GagarineKerman to implement multiplayer,
 3dprintingnut (http://forum.kerbalspaceprogram.com/index.php?/profile/163364-3dprintingnut/) who built some of the stations,
-DOSLuke (http://forum.kerbalspaceprogram.com/index.php?/messenger/121393/&page=2#comment-161823) who corrected my Spelling/Orthographic mistakes,
-AlBean0 who create a kerbal head icon which I use in a menu (http://www.mediafire.com/view/88puu1g8qlqcyzi/kerbal.svg.png#),
-Thomdare who create the original github project for me.
+DOSLuke (http://forum.kerbalspaceprogram.com/index.php?/messenger/121393/&page=2#comment-161823) who corrected GagarineKermans Spelling/Orthographic mistakes,
+AlBean0 who created a kerbal head icon which I use in a menu (http://www.mediafire.com/view/88puu1g8qlqcyzi/kerbal.svg.png#),
+Thomdare who created the original github project for GagarineKerman.
 
 And of course: GagarineKerman, for creating the original mod!
