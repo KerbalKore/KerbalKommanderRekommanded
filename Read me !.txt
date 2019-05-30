@@ -1,63 +1,45 @@
-// Types of stock contracts : ARM, Base, Flag, Grand, ISRU, Recovery, Satellite, Science, Station, Survey, Test, Tour
-Hey kerbonaut !
+//Types of stock contracts : ARM, Base, Flag, Grand Tour, ISRU, Asset Recovery, Satellite, Science, Station, Survey, Part Test, Tourism
 
-Thank to have download the Kerbal Kommander mod !
-Here are very useful informations:
+Thank you for downloading the Kerbal Kommander mod !
+Here is some useful information:
 
-What is kerbal kommander ?
+What is kerbal kommander?
 
-It's a new way to play KSP, you play Jebediah Kerman a ship pilot who want to create his own space company. You will have a lot of possibility to earn money: mining, trading, doing some scientific research, grabbing asteroids, or  even  slave or weapon traffic.  This money can be use to buy better ships or hire some crew.
+It's a new way to play KSP, you play as a ship pilot who want to create his own space company. You have many ways to earn money: mining, trading, selling scientific research, grabbing asteroids, or even slave/weapon trafficing. This money can be used to buy better ships or hire crew.
 
-How to install Kerbal Kommander ?
+How to install Kerbal Kommander?
 
-- Put the "KerbalKommander" and "ModuleManager" folders in your "GameData" folder.
+- Put the "KerbalKommander" in your "GameData" folder.
 
-How to Begin a new game ?
+How to begin a new game?
 
 - Start KSP and create a new career save.
 - Click on the app button at the bottom left hand corner
 - Click on "Create a new Kerbal Kommander Game"
 - Choose the characteristics of your kerbal
-- You’re now ready !
-- First, you need a ship click on a screen and select "Ship shop", a window will appear, now you can buy a ship or create a new one by clicking on "Buy a ship" or "design a new ship" if you don't have create a ship.
-- Then you are ready to earn money by doing trading, mining, selling asteroides, traffic slaves. With this money, you can upgrade your ship, buy some others, hire some crew and become the richest company of the Kerbol system !
-Will you become an honest trader or a pirate who sell weapons and slaves ?
+- Now you're ready!
+- First, you need a ship click on a screen and select "Ship shop", a window will appear, now you can buy a ship or create a new one by clicking on "Buy a ship" or "design a new ship" if you haven't already created a ship.
+- Then you are ready to earn money by doing trading, mining, selling asteroides, traffic slaves. With this money, you can upgrade your ship, buy more ships, hire crew and become the richest company of the Kerbol system!
+Will you become an honest trader, a researcher, or a pirate who sells weapons and slaves?
 
-Good luck captain !
+Good luck captain!
 
-How to Update a Kerbal Kommander Game from 0.2 to 0.3?
+How to Update a Kerbal Kommander Game?
 
 - Start KSP and open the save.
 - Click on the app button at the bottom left hand corner
-- Click on "Update The Game to 0.3"
+- Click on "Update The Game to 0.X"
 - The game is now update, you can play and enjoy all the new features
-(if you want to update a game from 0.1 to 0.3, youneed to update it to 0.2 and then to 0.3)
-Gagarine Kerman :)
-
-info:
-Mod version: 0.3
-KSP recommanded version: 1.2
-
-
-Changelog:
-- Adding 5 new contract for kerbals kommanders games:
-	- Infiltrations missions: you need to infiltrate an ennemy station to destroy it
-	- Refueling contract: you have to carry some ressources to a ship
-	- Rescue mission: you have to pick up lost crew and bring them back to a station
-	- Tourism Contract: you have to pick up crew in a station and ferry them to another one
-	- Trading Contract: you have to carry some ressources to a station
-- Adding a "shield" for the station, you can't destroy them
-- Fix the docking bug
-- codes improvements
+(if you want to update a game from a release more than one release ago to the current version, you need to update it like this: 0.1 > next > repeat until modern version)
 
 
 Credits:
 A big thanks to:
-Veeltch (http://forum.kerbalspaceprogram.com/index.php?/profile/39636-veeltch/) who create some ships and station for the mod,
-Boltyx (http://forum.kerbalspaceprogram.com/index.php?/profile/159338-boltyx/) who build some ships, stations and help me to implement multi player,
-3dprintingnut (http://forum.kerbalspaceprogram.com/index.php?/profile/163364-3dprintingnut/) who build some station,
-DOSLuke (http://forum.kerbalspaceprogram.com/index.php?/messenger/121393/&page=2#comment-161823) who correct my Spelling/Orthographic mistakes,
-AlBean0 who create a kerbal head icone which I use in a menu (http://www.mediafire.com/view/88puu1g8qlqcyzi/kerbal.svg.png#),
-Thomdare who create the git hub project for me.
+Veeltch (http://forum.kerbalspaceprogram.com/index.php?/profile/39636-veeltch/) who created some ships and station for the mod,
+Boltyx (http://forum.kerbalspaceprogram.com/index.php?/profile/159338-boltyx/) who build some ships, stations and helping GagarineKerman to implement multiplayer,
+3dprintingnut (http://forum.kerbalspaceprogram.com/index.php?/profile/163364-3dprintingnut/) who built some of the stations,
+DOSLuke (http://forum.kerbalspaceprogram.com/index.php?/messenger/121393/&page=2#comment-161823) who corrected my Spelling/Orthographic mistakes,
+AlBean0 who create a kerbal head icon which I use in a menu (http://www.mediafire.com/view/88puu1g8qlqcyzi/kerbal.svg.png#),
+Thomdare who create the original github project for me.
 
-;) 
+And of course: GagarineKerman, for creating the original mod!
